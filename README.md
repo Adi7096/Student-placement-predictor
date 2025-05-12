@@ -6,7 +6,9 @@ visit the live app:[Click Here](https://student-placement-predictor-fd2yydjt28mn
 
 ## Files
 -'streamlt.ui_py': Streamlit code for UI
+
 -'placement_model.pkl': Trained ML model
+
 -'requirements.txt': Python Dependencies
 
 ## Tools used
